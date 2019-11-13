@@ -11,7 +11,7 @@ public class numeros_pares {
 		for(int i=num;i<=40;i++) {
 			num=i;
 			if(i%2==0) {
-				System.out.println(i);
+				System.out.println("Los números pares son: "+i);
 			}
 		}
 		
