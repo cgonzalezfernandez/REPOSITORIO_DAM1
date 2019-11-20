@@ -5,7 +5,7 @@ public class nro_pares {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int nro = 40;
+		int nro = (int)(Math.random()*100);
 		
 		int [] numero = new int[nro];
 		
