@@ -8,7 +8,7 @@ public class ParOImpar {
 			if (i%2==0) {
 				System.out.println(i);
 			}
+		}
 	}
-}
 }
 	
