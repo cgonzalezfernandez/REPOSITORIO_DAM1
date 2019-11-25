@@ -11,6 +11,7 @@ public class pares {
 				System.out.println(i+" es par");
 					array[j]=i;
 					j++;
+					//corregido
 			}
 		}
 		System.out.println(Arrays.toString(array));
