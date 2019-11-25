@@ -11,5 +11,6 @@ public class pares {
 				}
 			} 
 		}
+		System.out.println("Se acabo el programa");
 	}
 }
