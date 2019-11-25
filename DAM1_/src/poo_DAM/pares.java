@@ -13,7 +13,7 @@ public class pares {
 				
 			} 
 		}
-		System.out.println("Se acabo el programa");
+ 		System.out.println("Se acabo el programa");
 	}
 	
 }
